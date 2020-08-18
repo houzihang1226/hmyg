@@ -12,6 +12,11 @@
 	}
 </script>
 
-<style>
+<style lang="less">
 	/*每个页面公共css */
+	@import './fonts.less';
+	image {
+		height: 100%;
+		width: 100%;
+	}
 </style>
